@@ -34,15 +34,6 @@ const input = require('fs').readFileSync('dev/stdin').toString().split(' ');
 
 console.log(parseInt(input[0]) * parseInt(input[1]));
 ```
-
-#### **📝해설**
-1) 문자열.length를 이용해 문자열의 길이를 구함.
-2) 문자열[숫자] 
-
-   문자 선택 연산자를 이용해 문자열 내부의 문자 하나를 선택.
-3) 문자열 연결 연산자 +를 이용해 새로운 
-    문자열을 만듦. 
-
 ## 📚참고 사이트
 
 - **🔗문제 링크**<br/>
